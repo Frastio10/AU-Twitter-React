@@ -2,6 +2,7 @@
 .firebaserc
 firebase.json
 firestore.*
+firebaseInit.*
 
 # dependencies
 /node_modules
